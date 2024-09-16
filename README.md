@@ -11,3 +11,8 @@ I found this article to be very interesting because I have been wondering how th
 
 This list of suggestions is very helpfu for me, giving me guidance on what to learn going forward. However, even though Artificial Intelligence will change the software engineering industry, software engineers are still going to be in high demand because software engineering will still require ethics and human judgment.
 
+Bohan Hou Comment: 
+
+The risk of bias of AI models is something that I find very relevant. Through exisitng AI models such as the GPT, underlying restrictions may scew the model's responses. Though 
+resctrictions on AI are necessary, it is challenging to find a balance between transparency and security.
+
